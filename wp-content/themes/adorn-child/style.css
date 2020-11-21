@@ -1,0 +1,92 @@
+/*
+Theme Name: Adorn Child
+Theme URI: http://adorn.edge-themes.com
+Description: A child theme of Adorn Theme
+Author: Edge Themes
+Author URI: http://themeforest.net/user/edge-themes
+Version: 1.0.1
+Text Domain: adorn
+Template: adorn
+*/
+@font-face {
+  font-family: 'LibreBaskerville-Regular';
+  src: url("../adorn/custom/fonts/LibreBaskerville-Regular.woff") format('woff');
+}
+#rev_slider_1_1 .edge-dark.tparrows.tp-leftarrow:before, #rev_slider_1_1 .edge-dark.tparrows.tp-rightarrow:before {
+    margin-left: -3px;
+    color: #622434!important;
+    font-weight: bold;
+}
+span.item_text, .edge-header-vertical .edge-vertical-area-widget-holder .widget.widget_nav_menu ul li a ,span.edge-logged-in-user-name, h1,h2,h3,h4,h5,h6, table th, span.posted_in, #edge-back-to-top>span {
+	color: #622434!important;
+	font-family: 'LibreBaskerville-Regular'!important;
+}
+label,p,bdi, th, a, div.woocommerce input[type=submit], span.edge-quantity-label, #edge-back-to-top>span, .yith_ywraq_add_item_response-95.yith_ywraq_add_item_response_message, .edge-search-label,.edge-title .edge-title-holder .edge-breadcrumbs a, .edge-title .edge-title-holder .edge-breadcrumbs span, a.edge-fullscreen-search-close, input, .woocommerce-result-count, .edge-woo-single-page .woocommerce-tabs #reviews .comment-respond .comment-reply-title, textarea {
+	font-family: 'LibreBaskerville-Regular'!important;
+}
+textarea, input {
+    border-radius: 0px!important;
+}
+button#place_order, button.frm_button_submit, input.button,a.add-request-quote-button.button, input#submit {
+	background-color: #622434!important;
+	color: #fff!important;
+	border: 1px solid #622434!important;
+	border-radius: 0px!important;
+}
+button#place_order:hover, button.frm_button_submit:hover, input.button:hover, a.add-request-quote-button.button:hover , input#submit:hover {
+	background-color: #f9e1d0!important;
+	color: #622434!important;
+}
+.edge-main-menu>ul>li>a {
+	font-size: 12px!important;
+}
+span.edge-side-menu-lines, .edge-shopping-cart-holder.edge-cart-info-is-active {
+    display: none!important;
+}
+/*
+a.add_to_cart_button.ajax_add_to_cart.edge-button {
+	display: none!important;
+}*/
+.edge-fullscreen-search-holder .edge-fullscreen-search-close-container a:before {
+    content: "Cerrar"!important;
+}
+.edge-woo-single-page .woocommerce-tabs ul.tabs>li.active a, .edge-woo-single-page .woocommerce-tabs ul.tabs>li:hover a {
+    background-color: #622434!important;
+}
+.edge-breadcrumbs-inner a, span.edge-icon-font-elegant.arrow_triangle-down, .edge-login-register-widget .edge-login-dropdown li a,  .edge-search-opener .edge-search-opener-wrapper .edge-icon-ion-icon, span.icon-arrows-remove, .edge-title .edge-title-holder .edge-breadcrumbs a , .arrow_carrot-down:before{
+    color: #622434!important;
+}
+.edge-footer-bottom-inner.edge-grid {
+	font-weight: bold!important;
+    color: #622434!important;	
+}
+table tbody tr, table thead tr {
+    border: 1px solid #622434!important;
+}
+.edge-woo-social-share-holder, .edge-fullscreen-search-logo.edge-logo-wrapper {
+    display: none!important;
+}
+table#yith-ywrq-table-list img.attachment-woocommerce_thumbnail.size-woocommerce_thumbnail {
+    height: 200px!important;
+    object-fit: contain!important;
+}
+span.edge-btn-text {
+    color: #622434!important;	
+    border-bottom: 1px solid #622434!important;	
+}
+.edge-logo-wrapper {
+    width: 175px!important;
+}
+.edge-logo-wrapper a {
+    height: 80px!important;
+}
+span.item_text, span.edge-logged-in-user-name {
+    font-size: 10px!important;
+}
+.edge-header-vertical .edge-vertical-area-widget-holder .widget.widget_nav_menu ul li a {
+    font-size: 12px!important;
+}
+
+.edge-title .edge-title-holder .edge-breadcrumbs span {
+    font-size: 10px;
+}

@@ -1,0 +1,108 @@
+2020-11-21T01:31:44+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote-view.php:144
+Stack trace:
+#0 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote.php(26): wc_get_template('request-quote-v...', Array, '', '/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/opt/lampp/htdo...')
+#3 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/includes/class.yith-ywraq-shortcodes.php(46): wc_get_template('request-quote.p...', Array, '', '/opt/lampp/htdo...')
+#4 /opt/lampp/htdocs/yessicayepes/wp-includes/shortcodes.php(343): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...')
+#5 [internal function]: do_shortcode_ta en /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote-view.php en la línea 144
+
+2020-11-21T01:32:38+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote-view.php:144
+Stack trace:
+#0 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote.php(26): wc_get_template('request-quote-v...', Array, '', '/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/opt/lampp/htdo...')
+#3 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/includes/class.yith-ywraq-shortcodes.php(46): wc_get_template('request-quote.p...', Array, '', '/opt/lampp/htdo...')
+#4 /opt/lampp/htdocs/yessicayepes/wp-includes/shortcodes.php(343): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...')
+#5 [internal function]: do_shortcode_ta en /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote-view.php en la línea 144
+
+2020-11-21T01:33:41+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote-view.php:144
+Stack trace:
+#0 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote.php(26): wc_get_template('request-quote-v...', Array, '', '/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/opt/lampp/htdo...')
+#3 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/includes/class.yith-ywraq-shortcodes.php(46): wc_get_template('request-quote.p...', Array, '', '/opt/lampp/htdo...')
+#4 /opt/lampp/htdocs/yessicayepes/wp-includes/shortcodes.php(343): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...')
+#5 [internal function]: do_shortcode_ta en /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote-view.php en la línea 144
+
+2020-11-21T01:34:59+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote-view.php:144
+Stack trace:
+#0 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote.php(26): wc_get_template('request-quote-v...', Array, '', '/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/opt/lampp/htdo...')
+#3 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/includes/class.yith-ywraq-shortcodes.php(46): wc_get_template('request-quote.p...', Array, '', '/opt/lampp/htdo...')
+#4 /opt/lampp/htdocs/yessicayepes/wp-includes/shortcodes.php(343): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...')
+#5 [internal function]: do_shortcode_ta en /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote-view.php en la línea 144
+
+2020-11-21T01:35:57+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote-view.php:144
+Stack trace:
+#0 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote.php(26): wc_get_template('request-quote-v...', Array, '', '/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/opt/lampp/htdo...')
+#3 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/includes/class.yith-ywraq-shortcodes.php(46): wc_get_template('request-quote.p...', Array, '', '/opt/lampp/htdo...')
+#4 /opt/lampp/htdocs/yessicayepes/wp-includes/shortcodes.php(343): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...')
+#5 [internal function]: do_shortcode_ta en /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote-view.php en la línea 144
+
+2020-11-21T01:36:36+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote-view.php:144
+Stack trace:
+#0 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote.php(26): wc_get_template('request-quote-v...', Array, '', '/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/opt/lampp/htdo...')
+#3 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/includes/class.yith-ywraq-shortcodes.php(46): wc_get_template('request-quote.p...', Array, '', '/opt/lampp/htdo...')
+#4 /opt/lampp/htdocs/yessicayepes/wp-includes/shortcodes.php(343): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...')
+#5 [internal function]: do_shortcode_ta en /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote-view.php en la línea 144
+
+2020-11-21T12:25:29+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote-view.php:144
+Stack trace:
+#0 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote.php(26): wc_get_template('request-quote-v...', Array, '', '/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/opt/lampp/htdo...')
+#3 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/includes/class.yith-ywraq-shortcodes.php(46): wc_get_template('request-quote.p...', Array, '', '/opt/lampp/htdo...')
+#4 /opt/lampp/htdocs/yessicayepes/wp-includes/shortcodes.php(343): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...')
+#5 [internal function]: do_shortcode_ta en /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote-view.php en la línea 144
+
+2020-11-21T12:37:52+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote-view.php:144
+Stack trace:
+#0 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote.php(26): wc_get_template('request-quote-v...', Array, '', '/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/opt/lampp/htdo...')
+#3 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/includes/class.yith-ywraq-shortcodes.php(46): wc_get_template('request-quote.p...', Array, '', '/opt/lampp/htdo...')
+#4 /opt/lampp/htdocs/yessicayepes/wp-includes/shortcodes.php(343): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...')
+#5 [internal function]: do_shortcode_ta en /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote-view.php en la línea 144
+
+2020-11-21T12:44:06+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote-view.php:144
+Stack trace:
+#0 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote.php(26): wc_get_template('request-quote-v...', Array, '', '/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/opt/lampp/htdo...')
+#3 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/includes/class.yith-ywraq-shortcodes.php(46): wc_get_template('request-quote.p...', Array, '', '/opt/lampp/htdo...')
+#4 /opt/lampp/htdocs/yessicayepes/wp-includes/shortcodes.php(343): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...')
+#5 [internal function]: do_shortcode_ta en /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote-view.php en la línea 144
+
+2020-11-21T12:44:28+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote-view.php:144
+Stack trace:
+#0 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote.php(26): wc_get_template('request-quote-v...', Array, '', '/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/opt/lampp/htdo...')
+#3 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/includes/class.yith-ywraq-shortcodes.php(46): wc_get_template('request-quote.p...', Array, '', '/opt/lampp/htdo...')
+#4 /opt/lampp/htdocs/yessicayepes/wp-includes/shortcodes.php(343): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...')
+#5 [internal function]: do_shortcode_ta en /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote-view.php en la línea 144
+
+2020-11-21T12:45:03+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote-view.php:144
+Stack trace:
+#0 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote.php(26): wc_get_template('request-quote-v...', Array, '', '/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/opt/lampp/htdo...')
+#3 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/includes/class.yith-ywraq-shortcodes.php(46): wc_get_template('request-quote.p...', Array, '', '/opt/lampp/htdo...')
+#4 /opt/lampp/htdocs/yessicayepes/wp-includes/shortcodes.php(343): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...')
+#5 [internal function]: do_shortcode_ta en /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote-view.php en la línea 144
+
+2020-11-21T14:19:20+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote-view.php:144
+Stack trace:
+#0 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote.php(26): wc_get_template('request-quote-v...', Array, '', '/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/opt/lampp/htdo...')
+#3 /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/includes/class.yith-ywraq-shortcodes.php(46): wc_get_template('request-quote.p...', Array, '', '/opt/lampp/htdo...')
+#4 /opt/lampp/htdocs/yessicayepes/wp-includes/shortcodes.php(343): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...')
+#5 [internal function]: do_shortcode_ta en /opt/lampp/htdocs/yessicayepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote-view.php en la línea 144
+
