@@ -27,21 +27,26 @@ label,p,bdi, th, a, div.woocommerce input[type=submit], span.edge-quantity-label
 textarea, input {
     border-radius: 0px!important;
 }
-button#place_order, button.frm_button_submit, input.button,a.add-request-quote-button.button, input#submit {
+button#place_order, button.frm_button_submit, input.button,a.add-request-quote-button.button, input#submit, .edge-login-register-content .edge-login-button-holder .edge-btn, .edge-register-button-holder button.edge-btn.edge-btn-small.edge-btn-solid {
 	background-color: #622434!important;
 	color: #fff!important;
 	border: 1px solid #622434!important;
 	border-radius: 0px!important;
 }
-button#place_order:hover, button.frm_button_submit:hover, input.button:hover, a.add-request-quote-button.button:hover , input#submit:hover {
+.edge-register-button-holder span.edge-btn-text {
+    color: #fff!important;
+    border-bottom: none!important;
+}
+button#place_order:hover, button.frm_button_submit:hover, input.button:hover, a.add-request-quote-button.button:hover , input#submit:hover , .edge-login-register-content .edge-login-button-holder .edge-btn:hover, button.edge-btn.edge-btn-small.edge-btn-solid:hover, .edge-register-button-holder button.edge-btn.edge-btn-small.edge-btn-solid:hover{
 	background-color: #f9e1d0!important;
 	color: #622434!important;
 }
 .edge-main-menu>ul>li>a {
 	font-size: 12px!important;
 }
-span.edge-side-menu-lines, .edge-shopping-cart-holder.edge-cart-info-is-active {
-    display: none!important;
+.edge-login-button-holder span.edge-btn-text {
+    color: #fff!important;
+	border-bottom: none!important;
 }
 /*
 a.add_to_cart_button.ajax_add_to_cart.edge-button {
@@ -80,13 +85,37 @@ span.edge-btn-text {
 .edge-logo-wrapper a {
     height: 80px!important;
 }
-span.item_text, span.edge-logged-in-user-name {
-    font-size: 10px!important;
-}
-.edge-header-vertical .edge-vertical-area-widget-holder .widget.widget_nav_menu ul li a {
+
+.edge-header-vertical .edge-vertical-area-widget-holder .widget.widget_nav_menu ul li a, span.edge-logged-in-user-name, .edge-login-register-widget .edge-login-dropdown li a,.edge-woo-single-page .woocommerce-tabs #reviews .comment-respond .comment-form-rating label,span#reply-title,.edge-woo-single-page .woocommerce-tabs #reviews .comment-respond p, p.comment-form-comment label,#edge-back-to-top>span, .woocommerce-page .edge-content label, div.woocommerce label {
     font-size: 12px!important;
 }
-
-.edge-title .edge-title-holder .edge-breadcrumbs span {
+a.add-request-quote-button.button, .edge-woo-single-page .woocommerce-tabs ul.tabs>li a,input#submit, input.button, .edge-login-register-content ul li a {
+    font-size: 10px!important;
+}
+.yith-ywraq-mail-form-wrapper h3 {
+    font-size: 20px!important;
+}
+a {
+    color: #606069!important;
+}
+.edge-login-button-holder span.edge-btn-text:hover{
+	color: #fff!important;
+}
+.edge-title .edge-title-holder .edge-breadcrumbs span , a.edge-login-opener{
     font-size: 10px;
+	font-weight: bold!important;
+}
+.edge-btn.edge-btn-simple {
+   
+    border-bottom: 1px solid #622434!important;
+}
+.edge-main-menu>ul>li>a , .edge-login-register-widget .edge-logged-in-user .edge-logged-in-user-inner>span{
+	text-transform: capitalize!important;}
+a.edge-login-opener,  .edge-login-register-widget .edge-login-opener {
+    color: #652938!important;
+    text-transform: capitalize!important;
+	font-size: 12px!important;
+}
+.edge-shopping-cart-holder .edge-header-cart, .edge-side-menu-button-opener .edge-side-menu-lines {
+	display: none!important;
 }

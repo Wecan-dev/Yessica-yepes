@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2019-05-09T09:46:30+02:00\n"
-"PO-Revision-Date: 2020-11-21 00:43+0000\n"
+"PO-Revision-Date: 2020-11-22 12:27+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: edge-membership\n"
 "Language: es_VE\n"
@@ -85,12 +85,12 @@ msgstr ""
 
 #: shortcodes/register/templates/register-message.php:3
 msgid "LOGIN"
-msgstr ""
+msgstr "Iniciar sesión"
 
 #: dashboard/page-templates/user-dashboard.php:28
 #: widgets/login-widget/templates/login-modal-template.php:4
 msgid "Login"
-msgstr ""
+msgstr "Iniciar sesión"
 
 #: widgets/login-widget/login-widget.php:10
 msgid "Login and register wordpress widget"
@@ -102,11 +102,11 @@ msgstr ""
 
 #: shortcodes/login/templates/login-template.php:23
 msgid "Lost Password?"
-msgstr ""
+msgstr "¿Contraseña perdida?"
 
 #: shortcodes/login/templates/login-template.php:23
 msgid "Lost Your password?"
-msgstr ""
+msgstr "¿Perdiste tu contraseña?"
 
 #: dashboard/dashboard-functions.php:153
 msgid "My Account"
@@ -121,7 +121,7 @@ msgstr ""
 #: shortcodes/login/templates/login-template.php:13
 #: shortcodes/register/templates/register-template.php:16
 msgid "Password"
-msgstr ""
+msgstr "Contraseña"
 
 #: dashboard/dashboard-functions.php:198
 msgid "Passwords don't match"
@@ -143,12 +143,12 @@ msgstr ""
 #: shortcodes/register/templates/register-template.php:27
 #: shortcodes/register/templates/register-template.php:32
 msgid "REGISTER"
-msgstr ""
+msgstr "Registrarse"
 
 #: dashboard/page-templates/user-dashboard.php:31
 #: widgets/login-widget/templates/login-modal-template.php:5
 msgid "Register"
-msgstr ""
+msgstr "Registrarse"
 
 #: login/wordpress-login.php:83
 msgid "Registration on "
@@ -156,12 +156,12 @@ msgstr ""
 
 #: shortcodes/login/templates/login-template.php:18
 msgid "Remember me"
-msgstr ""
+msgstr "Recuerdame "
 
 #: dashboard/page-templates/template-parts/edit-profile.php:36
 #: shortcodes/register/templates/register-template.php:20
 msgid "Repeat Password"
-msgstr ""
+msgstr "Repetir contraseña"
 
 #: dashboard/page-templates/user-dashboard.php:34
 msgid "Reset Password"
@@ -170,11 +170,11 @@ msgstr ""
 #: shortcodes/login/templates/login-template.php:28
 #: shortcodes/login/templates/login-template.php:33
 msgid "SIGN IN"
-msgstr ""
+msgstr "Ingresar"
 
 #: widgets/login-widget/login-widget.php:22
 msgid "Sign In"
-msgstr ""
+msgstr "Registrarse"
 
 #: login/wordpress-login.php:78
 msgid "Something went wrong"
@@ -197,7 +197,7 @@ msgstr ""
 #: shortcodes/login/templates/login-template.php:10
 #: shortcodes/register/templates/register-template.php:6
 msgid "User Name"
-msgstr ""
+msgstr "Nombre de usuario"
 
 #: login/wordpress-login.php:99
 msgid "User with that name already exists"
@@ -230,7 +230,7 @@ msgstr ""
 
 #: shortcodes/register/register.php:56
 msgid "You don't have permission to register"
-msgstr ""
+msgstr "No tienes permiso para registrarte"
 
 #: login/wordpress-login.php:84
 msgid "You have registered successfully on "
