@@ -1,0 +1,18 @@
+2020-12-01T18:38:17+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in /var/www/html/Yessica-yepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote-view.php:144
+Stack trace:
+#0 /var/www/html/Yessica-yepes/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /var/www/html/Yessica-yepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote.php(26): wc_get_template('request-quote-v...', Array, '', '/var/www/html/Y...')
+#2 /var/www/html/Yessica-yepes/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/var/www/html/Y...')
+#3 /var/www/html/Yessica-yepes/wp-content/plugins/yith-woocommerce-request-a-quote/includes/class.yith-ywraq-shortcodes.php(46): wc_get_template('request-quote.p...', Array, '', '/var/www/html/Y...')
+#4 /var/www/html/Yessica-yepes/wp-includes/shortcodes.php(343): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/w en /var/www/html/Yessica-yepes/wp-content/plugins/yith-woocommerce-request-a-quote/templates/request-quote-view.php en la línea 144
+
+2020-12-01T18:51:30+00:00 CRITICAL Object of class WP_Error could not be converted to string en /var/www/html/Yessica-yepes/wp-content/themes/adorn/framework/modules/woocommerce/shortcodes/product-list/product-list.php en la línea 561
+
+2020-12-01T19:22:22+00:00 CRITICAL syntax error, unexpected '*', expecting end of file en /var/www/html/Yessica-yepes/wp-content/themes/adorn-child/functions.php en la línea 17
+
+2020-12-01T19:22:45+00:00 CRITICAL syntax error, unexpected '*', expecting end of file en /var/www/html/Yessica-yepes/wp-content/themes/adorn-child/functions.php en la línea 17
+
+2020-12-01T19:24:00+00:00 CRITICAL syntax error, unexpected 'loop_columns' (T_STRING) en /var/www/html/Yessica-yepes/wp-content/themes/adorn-child/functions.php en la línea 16
+

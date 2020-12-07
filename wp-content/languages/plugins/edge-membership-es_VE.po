@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2019-05-09T09:46:30+02:00\n"
-"PO-Revision-Date: 2020-11-22 12:27+0000\n"
+"PO-Revision-Date: 2020-11-25 17:38+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: edge-membership\n"
 "Language: es_VE\n"
@@ -29,10 +29,12 @@ msgstr ""
 #: dashboard/page-templates/template-parts/edit-profile.php:27
 msgid "Description"
 msgstr ""
+"Descripción\n"
 
 #: dashboard/page-templates/template-parts/profile.php:22
 msgid "Desription"
 msgstr ""
+"Descripción\n"
 
 #. Plugin Name of the plugin
 msgid "Edge Membership"
@@ -56,6 +58,7 @@ msgstr ""
 #: shortcodes/reset-password/templates/reset-password-template.php:4
 msgid "Enter username or email"
 msgstr ""
+"Ingrese nombre de usuario o correo electrónico\n"
 
 #: dashboard/dashboard-functions.php:224
 msgid "Error."
@@ -64,16 +67,17 @@ msgstr ""
 #: dashboard/dashboard-functions.php:206
 msgid "Error. Please insert valid email"
 msgstr ""
+"Error. Por favor inserte un correo electrónico válido\n"
 
 #: dashboard/page-templates/template-parts/edit-profile.php:8
 #: dashboard/page-templates/template-parts/profile.php:10
 msgid "First Name"
-msgstr ""
+msgstr "Nombre"
 
 #: dashboard/page-templates/template-parts/edit-profile.php:13
 #: dashboard/page-templates/template-parts/profile.php:14
 msgid "Last Name"
-msgstr ""
+msgstr "Apellido"
 
 #: widgets/login-widget/templates/login-widget-template.php:37
 msgid "Log Out"
@@ -82,6 +86,7 @@ msgstr "Cerrar sesión"
 #: dashboard/page-templates/template-parts/navigation.php:14
 msgid "Log out"
 msgstr ""
+"Cerrar sesión\n"
 
 #: shortcodes/register/templates/register-message.php:3
 msgid "LOGIN"
@@ -98,7 +103,7 @@ msgstr ""
 
 #: login/wordpress-login.php:41
 msgid "Login successful, redirecting..."
-msgstr ""
+msgstr "Inicio de sesión exitoso, redirigiendo"
 
 #: shortcodes/login/templates/login-template.php:23
 msgid "Lost Password?"
@@ -116,6 +121,7 @@ msgstr "Mi cuenta"
 #: shortcodes/reset-password/templates/reset-password-template.php:17
 msgid "NEW PASSWORD"
 msgstr ""
+"NUEVA CONTRASEÑA\n"
 
 #: dashboard/page-templates/template-parts/edit-profile.php:32
 #: shortcodes/login/templates/login-template.php:13
@@ -126,6 +132,7 @@ msgstr "Contraseña"
 #: dashboard/dashboard-functions.php:198
 msgid "Passwords don't match"
 msgstr ""
+"Las contraseñas no coinciden\n"
 
 #. Description of the plugin
 msgid "Plugin that adds social login and user dashboard page"
@@ -139,6 +146,7 @@ msgstr "Perfil"
 #: dashboard/page-templates/template-parts/edit-profile.php:46
 msgid "PROFILE UPDATED"
 msgstr ""
+"PERFIL ACTUALIZADO\n"
 
 #: shortcodes/register/templates/register-template.php:27
 #: shortcodes/register/templates/register-template.php:32
@@ -153,6 +161,7 @@ msgstr "Registrarse"
 #: login/wordpress-login.php:83
 msgid "Registration on "
 msgstr ""
+"Registro en\n"
 
 #: shortcodes/login/templates/login-template.php:18
 msgid "Remember me"
@@ -166,6 +175,7 @@ msgstr "Repetir contraseña"
 #: dashboard/page-templates/user-dashboard.php:34
 msgid "Reset Password"
 msgstr ""
+"Restablecer la contraseña\n"
 
 #: shortcodes/login/templates/login-template.php:28
 #: shortcodes/login/templates/login-template.php:33
@@ -174,11 +184,12 @@ msgstr "Ingresar"
 
 #: widgets/login-widget/login-widget.php:22
 msgid "Sign In"
-msgstr "Registrarse"
+msgstr "Acceder"
 
 #: login/wordpress-login.php:78
 msgid "Something went wrong"
 msgstr ""
+"Algo salió mal\n"
 
 #: shortcodes/login/templates/login-template.php:10
 #: shortcodes/register/templates/register-template.php:8
@@ -189,10 +200,12 @@ msgstr ""
 #: dashboard/page-templates/template-parts/edit-profile.php:50
 msgid "UPDATE PROFILE"
 msgstr ""
+"ACTUALIZACIÓN DEL PERFIL\n"
 
 #: dashboard/page-templates/template-parts/edit-profile.php:45
 msgid "UPDATING PROFILE"
 msgstr ""
+"ACTUALIZANDO PERFIL\n"
 
 #: shortcodes/login/templates/login-template.php:10
 #: shortcodes/register/templates/register-template.php:6
@@ -202,14 +215,17 @@ msgstr "Nombre de usuario"
 #: login/wordpress-login.php:99
 msgid "User with that name already exists"
 msgstr ""
+"El usuario con ese nombre ya existe\n"
 
 #: login/wordpress-login.php:97
 msgid "Username already exists"
 msgstr ""
+"nombre de usuario ya existe\n"
 
 #: login/wordpress-login.php:121
 msgid "We have sent you an email"
 msgstr ""
+"Te hemos enviado un email\n"
 
 #: dashboard/page-templates/template-parts/edit-profile.php:23
 #: dashboard/page-templates/template-parts/profile.php:26
@@ -219,14 +235,16 @@ msgstr ""
 #: login/wordpress-login.php:33
 msgid "Wrong username or password."
 msgstr ""
+"Nombre de usuario o contraseña incorrectos.\n"
 
 #: shortcodes/register/register.php:60
 msgid "You are already logged in"
 msgstr ""
+"Ya se ha autentificado\n"
 
 #: dashboard/dashboard-functions.php:220
 msgid "You are unauthorized to perform this action."
-msgstr ""
+msgstr "No está autorizado para realizar esta acción."
 
 #: shortcodes/register/register.php:56
 msgid "You don't have permission to register"
@@ -235,12 +253,15 @@ msgstr "No tienes permiso para registrarte"
 #: login/wordpress-login.php:84
 msgid "You have registered successfully on "
 msgstr ""
+"Te has registrado con éxito en\n"
 
 #: login/wordpress-login.php:90
 msgid ""
 "You have registered successfully, please login with the created credentials"
 msgstr ""
+"Se ha registrado correctamente, inicie sesión con las credenciales creadas\n"
 
 #: dashboard/dashboard-functions.php:217
 msgid "Your profile is updated"
 msgstr ""
+"Tu perfil está actualizado\n"

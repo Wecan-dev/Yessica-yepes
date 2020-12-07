@@ -65,9 +65,9 @@ a.add_to_cart_button.ajax_add_to_cart.edge-button {
 	font-weight: bold!important;
     color: #622434!important;	
 }
-table tbody tr, table thead tr {
+/*table tbody tr, table thead tr {
     border: 1px solid #622434!important;
-}
+}*/
 .edge-woo-social-share-holder, .edge-fullscreen-search-logo.edge-logo-wrapper {
     display: none!important;
 }

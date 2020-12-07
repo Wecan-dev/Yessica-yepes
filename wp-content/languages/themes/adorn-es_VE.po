@@ -4,13 +4,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Adorn 1.5\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/adorn\n"
-"Last-Translator: \n"
+"Last-Translator: Yessica yepes\n"
 "Language-Team: Español de Venezuela\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2019-05-09T09:46:19+02:00\n"
-"PO-Revision-Date: 2020-11-21 13:08+0000\n"
+"PO-Revision-Date: 2020-12-03 20:56+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: adorn\n"
 "Language: es_VE\n"
@@ -199,6 +199,7 @@ msgstr ""
 #: framework/modules/error404/options-map/map.php:9
 msgid "404 Error Page"
 msgstr ""
+"Página de error 404\n"
 
 #: framework/modules/error404/options-map/map.php:73
 msgid "404 Page Options"
@@ -357,7 +358,7 @@ msgstr ""
 
 #: functions.php:668
 msgid "Adding to Cart..."
-msgstr "Añadiendo al carrito..."
+msgstr "Ver mas"
 
 #: framework/modules/blog/shortcodes/blog-list/blog-list.php:200
 msgid "Additional Features"
@@ -411,6 +412,8 @@ msgstr ""
 #: includes/plugins/class-tgm-plugin-activation.php:3586
 msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
 msgstr ""
+"\n"
+"Se produjo un error al instalar%1$s:<strong>%2$s</strong>."
 
 #: includes/nav-menu/edit_custom_walker.php:176
 msgid "Anchor"
@@ -2873,7 +2876,7 @@ msgstr ""
 
 #: framework/modules/title/title-functions.php:383
 msgid "Error 404"
-msgstr ""
+msgstr "Error 404"
 
 #: framework/modules/woocommerce/shortcodes/product-info/product-info.php:53
 msgid "Excerpt"
@@ -3606,7 +3609,7 @@ msgstr ""
 
 #: framework/modules/woocommerce/woocommerce-template-hooks.php:392
 msgid "Hello"
-msgstr ""
+msgstr "Hola"
 
 #: framework/admin/meta-boxes/60.title/map.php:181
 msgid "Hide Background Image"
@@ -5409,7 +5412,7 @@ msgstr ""
 
 #: framework/modules/blog/templates/parts/post-info/read-more.php:11
 msgid "Read More"
-msgstr ""
+msgstr "Leer más"
 
 #: includes/plugins/class-tgm-plugin-activation.php:2361
 msgid "Recommended"
@@ -5593,7 +5596,7 @@ msgstr "Busqueda de página"
 
 #: woocommerce/product-searchform.php:27
 msgid "Search Products..."
-msgstr ""
+msgstr "Buscar"
 
 #: framework/modules/title/title-functions.php:297
 msgid "Search results for "
@@ -6836,6 +6839,8 @@ msgid ""
 "The page requested couldn't be found. This could be a spelling error in the "
 "URL or a removed page."
 msgstr ""
+"No se pudo encontrar la página solicitada. Esto podría ser un error de "
+"ortografía en la URL o una página eliminada.\n"
 
 #: includes/plugins/class-tgm-plugin-activation.php:1022
 msgid ""

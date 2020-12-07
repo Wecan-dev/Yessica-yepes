@@ -13,6 +13,10 @@ if ( ! function_exists( 'adorn_edge_child_theme_enqueue_scripts' ) ) {
 }
 
 
+
+add_filter ('loop_shop_columns', 'loop_columns', 999);
+add_filter ('loop_shop_columns', 'loop_columns', 999);
+
 add_theme_support('category-thumbnails');
 
 remove_action( 'woocommerce_after_shop_loop_item', 'woocommerce_template_loop_add_to_cart', 10 );
@@ -22,3 +26,6 @@ remove_action( 'woocommerce_single_product_summary', 'woocommerce_template_singl
 remove_action( 'woocommerce_simple_add_to_cart', 'woocommerce_simple_add_to_cart', 30 );
 
 remove_action( 'woocommerce_grouped_add_to_cart', 'woocommerce_grouped_add_to_cart', 30 );
+
+
+
